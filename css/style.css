@@ -1,0 +1,8 @@
+.cl-items .btn {
+    height: 20vh;
+    font-size: 1.5em;
+    padding: 1em 0 0 1em;
+    text-align: left;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    text-transform: capitalize;
+}
